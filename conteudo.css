@@ -1,0 +1,17 @@
+body{
+    margin: 50px;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+    text-shadow: -1px 1px 1px #000;
+}
+h1{
+    color: chocolate;
+    text-shadow: -2px 1px 1px #000;
+}
+p{
+    display: flex;
+    overflow: hidden;
+    text-align: center;
+}
